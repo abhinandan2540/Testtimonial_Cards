@@ -1,0 +1,48 @@
+#people1 {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    /* margin-right: 150px; */
+}
+
+#people2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.firstTest {
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid red; */
+    justify-content: space-evenly;
+}
+
+.FC {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 50px;
+}
+
+.SC {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+#people1val {
+    border: 2px solid black;
+    padding: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+
+#peopleval2 {
+    border: 2px solid black;
+    padding: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
